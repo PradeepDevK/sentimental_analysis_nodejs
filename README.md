@@ -1,0 +1,2 @@
+# sentimental_analysis_nodejs
+Sentimental Analysis Results
